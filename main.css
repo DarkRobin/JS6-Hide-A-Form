@@ -1,0 +1,50 @@
+html{
+	width: 100%;
+}
+
+
+img{
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+
+body{
+	margin-left: 20%;
+	margin-right: 20%;
+
+}
+
+
+.user-profile{
+	background-color: #40B20E;
+	border: solid 4px #B200AB;
+
+}
+
+.user-name{
+	display: block;
+	
+}
+
+
+.block{
+	min-height: 100px;
+}
+
+.hidden-form{
+	display: none;
+}
+
+.button{
+float: right;    
+}
+
+.user-info{
+	width: 100%;
+	min-height: 200px;
+}
+
+.tab{
+	margin-left: 20px;
+}
